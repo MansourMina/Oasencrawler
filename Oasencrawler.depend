@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1709582578 source:c:\users\manso\onedrive\dokumente\fh technikum wien\semester 2\objektorientierte programmierung labor\beispiele\oasencrawler\src\player.cpp
+	"Player.h"
+	<cstdlib>
+	"constants.h"
+	<string>
+	<iostream>
+
+1709582578 c:\users\manso\onedrive\dokumente\fh technikum wien\semester 2\objektorientierte programmierung labor\beispiele\oasencrawler\include\player.h
+	"constants.h"
+	"GameObject.h"
+	<string>
+	"Attribute.h"
+
+1709580421 source:c:\users\manso\onedrive\dokumente\fh technikum wien\semester 2\objektorientierte programmierung labor\beispiele\oasencrawler\main.cpp
+	<iostream>
+	<cstdlib>
+	"Player.h"
+	"Enemy.h"
+	<time.h>
+	<cmath>
+	<limits>
+	<thread>
+	"constants.h"
+
+1709583520 c:\users\manso\onedrive\dokumente\fh technikum wien\semester 2\objektorientierte programmierung labor\beispiele\oasencrawler\include\constants.h
+
+1709580056 source:c:\users\manso\onedrive\dokumente\fh technikum wien\semester 2\objektorientierte programmierung labor\beispiele\oasencrawler\src\gameobject.cpp
+	"GameObject.h"
+	"constants.h"
+
+1709580056 c:\users\manso\onedrive\dokumente\fh technikum wien\semester 2\objektorientierte programmierung labor\beispiele\oasencrawler\include\gameobject.h
+
+1709577513 source:c:\users\manso\onedrive\dokumente\fh technikum wien\semester 2\objektorientierte programmierung labor\beispiele\oasencrawler\src\enemy.cpp
+	"Enemy.h"
+
+1709578458 c:\users\manso\onedrive\dokumente\fh technikum wien\semester 2\objektorientierte programmierung labor\beispiele\oasencrawler\include\enemy.h
+	"GameObject.h"
+
+1709386898 c:\users\manso\onedrive\dokumente\fh technikum wien\semester 2\objektorientierte programmierung labor\beispiele\oasencrawler\include\attribute.h
+
+1709386437 source:c:\users\manso\onedrive\dokumente\fh technikum wien\semester 2\objektorientierte programmierung labor\beispiele\oasencrawler\src\attribute.cpp
+	"Attribute.h"
+
